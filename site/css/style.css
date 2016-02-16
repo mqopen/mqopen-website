@@ -22,11 +22,12 @@
 }
 
 .name {
-    font-size: 2em;
+    margin-top: 10px;
+    font-size: 1.2em;
 }
 
 .link-contact {
-    font-size: 2.6em;
+    font-size: 2.2em;
     text-decoration: none;
     color: black;
 }

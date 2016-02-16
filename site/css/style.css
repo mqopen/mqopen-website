@@ -20,3 +20,13 @@
 .about-column {
     padding: 0px 40px;
 }
+
+.name {
+    font-size: 2em;
+}
+
+.link-contact {
+    font-size: 2.6em;
+    text-decoration: none;
+    color: black;
+}

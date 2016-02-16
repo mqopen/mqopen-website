@@ -1,7 +1,14 @@
 .mqopen-header {
-    background-color: #6f5499;
+}
+
+.mqopen-header h1 {
+    font-size: 8em;
 }
 
 .component-icon {
     font-size: 12em;
+}
+
+.heading-icon {
+    font-size: 16em;
 }

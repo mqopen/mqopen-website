@@ -3,20 +3,13 @@ body {
     font-size: 1.2em;
 }
 
-.carousel-inner > .item > img {
-    margin: 0 auto;
-}
-
-
-.carousel-inner > .item > img {
-    display: block;
-    line-height: 1;
-    min-width: 100%;
+.carousel-inner > .item {
+    background-size: 100% auto;
     height: 400px;
-    max-width: none;
-    object-fit: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     -webkit-filter: brightness(50%);
-    webkit-filter: brightness(50%);
+    filter: brightness(50%);
 }
 
 .mqopen-header {

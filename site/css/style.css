@@ -7,6 +7,10 @@ h2 {
     font-size: 3em;
 }
 
+h3 {
+    font-size: 1.6em;
+}
+
 .carousel-inner > .item {
     background-size: 100% auto;
     height: 400px;
@@ -49,6 +53,10 @@ h2 {
 .name {
     margin-top: 10px;
     font-size: 1.2em;
+}
+
+.mqopen-contact {
+    background: #DBDBDB;
 }
 
 .link-contact {

@@ -3,6 +3,10 @@ body {
     font-size: 1.2em;
 }
 
+h2 {
+    font-size: 3em;
+}
+
 .carousel-inner > .item {
     background-size: 100% auto;
     height: 400px;
@@ -26,8 +30,8 @@ body {
     font-size: 8em;
 }
 
-.mqopen-learn {
-    font-size: 1.6em;
+.mqopen-learn-wiki {
+    font-size: 1.8em;
 }
 
 .component-icon {
